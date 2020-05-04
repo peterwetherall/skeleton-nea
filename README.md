@@ -1,7 +1,7 @@
 # skeleton-nea
 Skeleton with buttons for Aussie NEA.
 
-A skeleton with clickable bones for an Australian NEA-type project.
+A skeleton with clickable bones for a Computer Science project.
 
 Created using Python and the Tkinter library.
 
